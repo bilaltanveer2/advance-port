@@ -1,0 +1,155 @@
+{
+  "title": "BILAL TANVEER Portfolio",
+  "navBar": {
+    "about": "About",
+    "work": "Work",
+    "tech": "Tech",
+    "project": "Project",
+    "blog": "PHOTOGRAPHY",
+    "contact": "Contact"
+  },
+  "hero": {
+    "hello": "Hi, I'm",
+    "name": "BILAL TANVEER",
+    "typeWords": ["WEB Developer", "React Learner", "Full Stack Developer"]
+  },
+  "about": {
+    "title": "Introduction",
+    "subTitle": "Overview.",
+    "content": "Hi there! I'm a Web Developer and Photo Editor with strong experience in frameworks like FastAPI, Flask, and React. I specialize in creating modern and responsive web applications and interfaces using React and other web technologies. My skill set also includes web scraping with Scrapy, data analysis with Pandas, big data processing with PySpark, and basic Golang development. I'm proficient in utilizing Large Language Models (LLMs) for AI-assisted development and have deep experience as an LLM power user. Additionally, I offer professional photo editing services. I'm continuously growing as a Full Stack Developer and creative professional. Feel free to connect and discuss with me!",
+    "cardTitle": {
+      "0": "Web Developer",
+      "1": "React Developer",
+      "2": "Backend Developer",
+      "3": "Content Creator"
+    }
+  },
+"experience": {
+  "title": "What I have done so far",
+  "subTitle": "Work Experience.",
+  "detail": {
+    "0": {
+      "title": "Web Developer",
+      "company_name": "Freelancer",
+      "date": "Jan 2023 - Present",
+      "points": [
+        "Building responsive websites using **Next.js**, **React**, and **TailwindCSS**",
+        "Deploying projects on **Vercel**, **Netlify**, and **GitHub Pages**",
+        "Experience in SEO optimization and website performance improvements",
+        "Creating modern, mobile-friendly UI/UX designs",
+        "Technologies: **Next.js**, **React**, **TailwindCSS**, **Vercel**"
+      ]
+    },
+    "1": {
+      "title": "Professional Photo Editor",
+      "company_name": "Freelance Projects",
+      "date": "Nov 2024 - Present",
+      "points": [
+        "Expert in **photo retouching**, background removal, and color correction",
+        "Using **Photoshop**, **Lightroom**, and **Canva** for high-end editing",
+        "Designing social media posts, banners, and promotional content",
+        "Delivering high-quality edits for personal and business clients",
+        "Technologies: **Photoshop**, **Lightroom**, **Illustrator**, **Canva**"
+      ]
+    },
+    "2": {
+      "title": "Backend ",
+      "company_name": "Personal Learning",
+      "date": "Mar 2023 - Present",
+      "points": [
+        "Developed small backend projects using **FastAPI** and **Flask**",
+        "Basic understanding of **MongoDB**, **Firebase**, and **PostgreSQL**",
+        "Built simple APIs and handled database CRUD operations",
+        "Experience with authentication, JWT, and REST APIs",
+        "Technologies: **FastAPI**, **Flask**, **MongoDB**, **PostgreSQL**"
+      ]
+    },
+    "3": {
+      "title": "AI Tools Explorer",
+      "company_name": "Self Projects",
+      "date": "Jan 2023 - Present",
+      "points": [
+        "Exploring AI tools like **ChatGPT**, **MidJourney**, and **Leonardo AI**",
+        "Integrating OpenAI APIs into basic automation and chatbot projects",
+        "Generating AI content for blogs, designs, and coding help",
+        "Experimenting with image generation and AI-driven art tools",
+        "Technologies: **OpenAI API**, **ChatGPT**, **MidJourney**, **Leonardo AI**"
+      ]
+    },
+    "4": {
+      "title": "Python Developer (Self-Learning)",
+      "company_name": "Learning Projects",
+      "date": "Jan 2025 - Present",
+      "points": [
+        "Strong knowledge of **Python** scripting and automation tasks",
+        "Experience with web scraping using **Selenium** and **BeautifulSoup**",
+        "Built small automation bots for web tasks and data collection",
+        "Good understanding of **OOP**, **APIs**, and basic data structures",
+        "Technologies: **Python**, **Selenium**, **BeautifulSoup**, **Pandas**"
+      ]
+    }
+  }
+},
+
+  "tech": {
+    "title": "MY SKILLS",
+    "subTitle": "Technologies.",
+    "skill": {
+      "0": "Web Developer",
+      "1": "Programming",
+      "2": "PHOTO EDITOR"
+    }
+  },
+  
+    "work": {
+      "title": "MY WORK",
+      "subTitle": "Projects.",
+      "content": "Following projects showcases my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories and live demos in it. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.",
+      "card": {
+        "0": {
+          "name": "React Developer Portfolio",
+          "description": "This project showcases a personal portfolio built with React, demonstrating the skills and expertise in front-end development. The portfolio highlights various projects, provides a clean and responsive design, and uses modern web technologies to offer a seamless user experience."
+        },
+        "1": {
+          "name": "AI Assistant",
+          "description": "This project demonstrates the power of AI in providing intelligent assistance. The AI Assistant uses natural language processing and machine learning algorithms to understand user queries and provide accurate responses. It's designed to improve productivity and enhance user experience by integrating with various platforms and offering smart solutions for different tasks."
+        },
+        "2": {
+          "name": "React Developer Portfolio",
+          "description": "A professional React Developer portfolio that presents a comprehensive overview of my web development work. This portfolio features an interactive UI, optimized for performance, and integrates various React features to create a dynamic and user-friendly experience for potential clients and employers."
+        }
+      }
+    },
+  
+  "blog": {
+    "title": "MY ALBUM",
+    "subTitle": "MEMRIES.",
+    "content":"Each photo is a story of its own, capturing moments of joy, beauty, and timeless memories. These photos showcase my artistic skills and creative vision, reflecting the essence of Abbottabad’s charm and the emotions they carry.",
+    "words": "Words",
+    "reads": "Reads"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subTitle": "Contact.",
+    "form": {
+      "name": "Your Name",
+      "defaultName": "What's your name?",
+      "email": "Your email",
+      "defaultEmail": "What's your email?",
+      "message": "Your Message",
+      "defaultMessage": "What do you want to say?"
+    },
+    "send": "Send",
+    "sendLoading": "Sending...",
+    "sendSuccess": "Thank you. I will get back to you as soon as possible.",
+    "sendFail": "Something went wrong."
+  },
+  "readMore": "Read More.",
+  "floatButton": {
+    "mainTip": "Tools",
+    "transTip": "English/urdu",
+    "starTip": "Star me on GitHub!",
+    "emailTip": "Contact me!",
+    "topTip": "To top"
+  }
+}
